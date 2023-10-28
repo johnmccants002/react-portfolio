@@ -1,30 +1,40 @@
-
 /* Add your profile image here */
-.Photo{
-    background-image: url('https://i.imgur.com/MWTxxA6.jpg');
+.Photo {
+  background-image: url("https://i.imgur.com/MWTxxA6.jpg");
 }
+
 /* Projects Photo */
-.project1{
-    background-image: url('https://i.imgur.com/j6Sr1Hn.png');
-    cursor: none;    
+.project1 {
+  background-image: url("https://i.imgur.com/j6Sr1Hn.png");
+  cursor: none;
 }
-.project2{
-    background-image: url('https://i.imgur.com/AiLe8JL.png');
-    cursor: none;
+.project2 {
+  background-image: url("https://i.imgur.com/AiLe8JL.png");
+  cursor: none;
 }
-.project3{
-    background-image: url('https://i.imgur.com/pMOQ4CW.png');
-    cursor: none;
+.project3 {
+  background-image: url("https://i.imgur.com/pMOQ4CW.png");
+  cursor: none;
 }
-.project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
-    cursor: none;
+.project4 {
+  background-image: url("https://i.imgur.com/VO2mX3S.png");
+  cursor: none;
 }
-.project5{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
-    cursor: none;
+.project5 {
+  background-image: url("https://i.imgur.com/XZ7NFyo.png");
+  cursor: none;
 }
-.project6{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
-    cursor: none;
+
+.project6 {
+  background-image: url("https://i.imgur.com/QomXh0f.png");
+  cursor: none;
+}
+.project7 {
+  background-image: url("https://i.imgur.com/V961Ic2.png");
+  cursor: none;
+}
+
+.project8 {
+  background-image: url("https://i.imgur.com/QzvbCkk.png");
+  cursor: none;
 }

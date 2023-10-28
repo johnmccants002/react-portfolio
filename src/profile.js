@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "I'm from Sacramento, CA and just finished my coding bootcamp at General Assembly. I like watching sports and building cool things. The two languages I mainly write in are React and Swift. Currently looking for a web development or iOS development job."
+    "I'm from Sacramento, CA and I'm a software engineer at OnDeck Pro.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -47,16 +47,15 @@ const skillsBar = [
     faClass: "fab fa-node",
   },
   {
-    name: "Python",
+    name: "React Native",
     // svg: '',
-    faClass: "fab fa-python",
+    faClass: "fab fa-react",
   },
   {
     name: "Swift",
     // svg: '',
     faClass: "fab fa-swift",
   },
-
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
@@ -83,6 +82,37 @@ const projects = [
     name: "Photofy",
     skills: ["Python, Django, AWS"],
     url: "https://github.com/johnmccants002/Photofy",
+  },
+
+  {
+    id: "project4",
+    name: "Presently",
+    skills: ["React Native, Expo Router, Javascript"],
+    url: "https://653c58bacd751e12cdfa78f6--presentlyapp.netlify.app/landing",
+  },
+  {
+    id: "project5",
+    name: "DuduBubu Widget App",
+    skills: ["SwiftUI, WidgetKit, Firebase"],
+    url: "https://github.com/johnmccants002/dudububuwidgetapp",
+  },
+  {
+    id: "project6",
+    name: "FlashCard AI",
+    skills: ["React Native, Expo Router, ChatGPT"],
+    url: "https://github.com/johnmccants002/fetchitapp",
+  },
+  {
+    id: "project7",
+    name: "Elevate Lawn Care",
+    skills: ["Nextjs, Vercel, SMTP"],
+    url: "https://www.elevatelawn.care/",
+  },
+  {
+    id: "project8",
+    name: "2Leaf Project",
+    skills: ["MongoDB, Express, CSS, SendGrid, Javascript, HTML5"],
+    url: "https://github.com/johnmccants002/2Leaf-Project",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.

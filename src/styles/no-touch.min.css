@@ -188,7 +188,7 @@ button:focus {
 .img-pro {
   height: 100%;
   width: 100%;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   -webkit-transition: all 0.5s;
