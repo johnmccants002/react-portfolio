@@ -114,6 +114,12 @@ const projects = [
     skills: ["MongoDB, Express, CSS, SendGrid, Javascript, HTML5"],
     url: "https://github.com/johnmccants002/2Leaf-Project",
   },
+  {
+    id: "project9",
+    name: "Pokedex",
+    skills: ["React, Javascript, HTML5, CSS"],
+    url: "https://github.com/johnmccants002/react-project-123",
+  },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
