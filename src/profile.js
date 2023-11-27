@@ -69,20 +69,6 @@ const projects = [
     skills: ["Swift, Firebase"],
     url: "https://github.com/johnmccants002/VictoryHQ",
   },
-  {
-    // Add image in './styles/images.css' in #project2
-    id: "project2",
-    name: "Events App",
-    skills: ["MongoDB, Express, React, Node"],
-    url: "https://github.com/johnmccants002/project4",
-  },
-  {
-    // Add image in './styles/images.css' in #project3
-    id: "project3",
-    name: "Photofy",
-    skills: ["Python, Django, AWS"],
-    url: "https://github.com/johnmccants002/Photofy",
-  },
 
   {
     id: "project4",
