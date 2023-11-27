@@ -74,7 +74,7 @@ const projects = [
     id: "project4",
     name: "Presently",
     skills: ["React Native, Expo Router, Javascript"],
-    url: "https://653c58bacd751e12cdfa78f6--presentlyapp.netlify.app/landing",
+    url: "https://apps.apple.com/us/app/presently-app/id6471322651",
   },
   {
     id: "project5",
