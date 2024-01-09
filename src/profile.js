@@ -106,6 +106,18 @@ const projects = [
     skills: ["React, Javascript, HTML5, CSS"],
     url: "https://github.com/johnmccants002/react-project-123",
   },
+  {
+    id: "project10",
+    name: "Rancho Rideshare",
+    skills: ["Nextjs, React, Javascript, Emailjs, Google Places"],
+    url: "https://www.ranchocordovarideshare.com/",
+  },
+  {
+    id: "project11",
+    name: "Pomodoro Devs",
+    skills: ["Nextjs, React, Javascript, Stripe"],
+    url: "https://www.pomodevs.com/",
+  },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it

@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/env.js
 
 # testing
 /coverage
@@ -27,3 +28,4 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
+env.js
